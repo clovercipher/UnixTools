@@ -1,5 +1,5 @@
 #!/usr/bin/python
-__author__ = 'coverton'
+__author__ = 'cl0v3r'
 
 import hashlib
 from optparse import OptionParser
