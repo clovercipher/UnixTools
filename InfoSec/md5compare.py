@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 __author__ = 'cl0v3r'
 
 import hashlib
